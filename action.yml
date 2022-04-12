@@ -25,7 +25,7 @@ inputs:
   repo_branch:
     description: 'Repository branch'
     required: false
-    default: 'master'
+    default: 'main'
   phpcs_bin_path:
     description: 'PHPCS bin path'
     required: false
